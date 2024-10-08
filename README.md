@@ -1,1 +1,4 @@
-# branching-exercise-1
+Marc
+Germany
+PHP, MariaDB, ...
+An exercise
